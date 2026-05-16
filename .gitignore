@@ -20,6 +20,8 @@ data/*.xlsx
 data/*.xls
 data/*.csv
 
+references/*.pdf
+
 # Environment variables / secrets
 .env
 
