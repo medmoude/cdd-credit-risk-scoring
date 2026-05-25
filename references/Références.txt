@@ -1,7 +1,7 @@
 Links: 
 1.https://medium.com/data-science/anova-and-kruskal-wallis-tests-explained-2ad828b97125
 2.https://medium.com/@anishnama20/understanding-the-chi-square-test-an-introduction-to-its-concept-and-   applications-9c9009ddb38
-
+3. https://www.lloydsbank.com/understanding-credit/what-is-a-credit-score-how-does-a-credit-score-work.html
 
 
 Books: 

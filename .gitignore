@@ -20,7 +20,9 @@ data/*.xlsx
 data/*.xls
 data/*.csv
 
-references/*.pdf
+# References and reports
+references/
+reports/
 
 # Environment variables / secrets
 .env
